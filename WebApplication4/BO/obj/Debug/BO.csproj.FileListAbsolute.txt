@@ -1,0 +1,4 @@
+D:\D\wcf\WebApplication4\BO\bin\Debug\BO.dll
+D:\D\wcf\WebApplication4\BO\bin\Debug\BO.pdb
+D:\D\wcf\WebApplication4\BO\obj\Debug\BO.dll
+D:\D\wcf\WebApplication4\BO\obj\Debug\BO.pdb

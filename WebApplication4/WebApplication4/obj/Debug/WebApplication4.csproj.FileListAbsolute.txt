@@ -1,0 +1,8 @@
+D:\D\wcf\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+D:\D\wcf\WebApplication4\WebApplication4\bin\WebApplication4.dll
+D:\D\wcf\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+D:\D\wcf\WebApplication4\WebApplication4\bin\BO.dll
+D:\D\wcf\WebApplication4\WebApplication4\bin\BO.pdb
+D:\D\wcf\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+D:\D\wcf\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+D:\D\wcf\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb

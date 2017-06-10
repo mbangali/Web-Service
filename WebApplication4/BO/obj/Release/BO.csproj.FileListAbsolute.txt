@@ -1,0 +1,4 @@
+D:\D\wcf\WebApplication4\BO\bin\Release\BO.dll
+D:\D\wcf\WebApplication4\BO\bin\Release\BO.pdb
+D:\D\wcf\WebApplication4\BO\obj\Release\BO.dll
+D:\D\wcf\WebApplication4\BO\obj\Release\BO.pdb
